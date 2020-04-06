@@ -15,7 +15,7 @@ should look like:
 
 ```
 imports = [
-  <nixos-config/host/algiz>
+  <nixos-config/hosts/algiz>
   ./hardware-configuration.nix
 ];
 ```
@@ -26,6 +26,6 @@ See code for all available configurations.
 
 | Model                             | Path                                               |
 | --------------------------------- | -------------------------------------------------- |
-| [Algiz][]                         | `<nixos-config/host/algiz>`                        |
+| [Algiz][]                         | `<nixos-config/hosts/algiz>`                        |
 
-[Algiz]: host/algiz
+[Algiz]: hosts/algiz
